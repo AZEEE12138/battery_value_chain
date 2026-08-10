@@ -1,0 +1,107 @@
+Node_Code,Tier,Sector_Label_EN,Out_Degree,In_Degree,Out_Weight,In_Weight,Is_Battery_Hub,Is_EV_Node
+S001,RM,Raw material sector 01,6,4,251164.01,32964.92,False,False
+S002,RM,Raw material sector 02,6,3,166478.48,23546.96,False,False
+S003,RM,Raw material sector 03,7,5,900755.65,30190.04,False,False
+S004,RM,Raw material sector 04,8,2,468160.93,16577.48,False,False
+S005,RM,Raw material sector 05,5,3,251933.05,205276.04,False,False
+S006,RM,Raw material sector 06,6,4,165776.94,34740.16,False,False
+S007,RM,Raw material sector 07,4,7,230833.27,102222.57,False,False
+S008,RM,Raw material sector 08,8,3,345131.72,13432.93,False,False
+S009,RM,Raw material sector 09,5,0,410004.76,0.0,False,False
+S010,RM,Raw material sector 10,6,3,132119.7,31563.35,False,False
+S011,RM,Raw material sector 11,6,3,137588.52,69019.89,False,False
+S012,RM,Raw material sector 12,11,6,305420.02,88453.02,False,False
+S013,RM,Raw material sector 13,9,4,298019.79,51168.72,False,False
+S014,RM,Raw material sector 14,4,2,414840.31,34348.83,False,False
+S015,RM,Raw material sector 15,5,5,363017.64,82943.47,False,False
+S016,RM,Raw material sector 16,8,4,313791.36,107419.23,False,False
+S017,RM,Raw material sector 17,9,7,440744.94,133940.5,False,False
+S018,RM,Raw material sector 18,7,2,216588.88,62281.16,False,False
+S019,RM,Raw material sector 19,6,1,299305.1,26524.76,False,False
+S020,RM,Raw material sector 20,3,2,110341.53,18690.05,False,False
+S021,PM,Processed material sector 01,8,9,606470.66,349798.95,False,False
+S022,PM,Processed material sector 02,8,7,289093.15,216418.18,False,False
+S023,PM,Processed material sector 03,9,7,364424.5,207978.76,False,False
+S024,PM,Processed material sector 04,5,9,261381.87,282279.44,False,False
+S025,PM,Processed material sector 05,7,8,161139.87,402304.71,False,False
+S026,PM,Processed material sector 06,10,11,637472.27,437706.11,False,False
+S027,PM,Processed material sector 07,7,10,421345.14,274128.27,False,False
+S028,PM,Processed material sector 08,7,7,120857.78,196823.09,False,False
+S029,PM,Processed material sector 09,7,6,575900.7,174086.02,False,False
+S030,PM,Processed material sector 10,9,5,750762.6,135941.22,False,False
+S031,PM,Processed material sector 11,6,8,211728.88,242885.83,False,False
+S032,PM,Processed material sector 12,8,10,233293.05,870829.19,False,False
+S033,PM,Processed material sector 13,9,10,436578.69,1006548.73,False,False
+S034,PM,Processed material sector 14,7,8,283347.39,356780.12,False,False
+S035,PM,Processed material sector 15,8,3,756723.68,23307.73,False,False
+S036,PM,Processed material sector 16,6,10,398191.13,147947.04,False,False
+S037,PM,Processed material sector 17,7,5,317267.95,218796.89,False,False
+S038,PM,Processed material sector 18,8,10,408565.02,402648.27,False,False
+S039,PM,Processed material sector 19,8,10,515842.53,330136.68,False,False
+S040,PM,Processed material sector 20,8,3,229392.56,291623.77,False,False
+S041,PM,Processed material sector 21,7,9,1702895.32,393893.72,False,False
+S042,PM,Processed material sector 22,8,7,137031.16,224990.86,False,False
+S043,PM,Processed material sector 23,6,7,105326.47,162874.2,False,False
+S044,PM,Processed material sector 24,9,9,281722.54,187127.75,False,False
+S045,CP,Component sector 01,8,5,532667.29,128294.95,False,False
+S046,CP,Component sector 02,7,4,413707.44,299612.28,False,False
+S047,CP,Component sector 03,8,13,708015.95,714395.03,False,False
+S048,CP,Component sector 04,6,8,206616.57,413802.74,False,False
+S049,CP,Component sector 05,10,15,258678.51,1498608.31,False,False
+S050,CP,Component sector 06,10,8,783945.58,532096.4,False,False
+S051,CP,Component sector 07,6,10,197185.01,1009732.93,False,False
+S052,CP,Component sector 08,7,7,241492.88,234678.1,False,False
+S053,CP,Component sector 09,8,10,200671.79,619348.26,False,False
+S054,CP,Component sector 10,9,4,396062.96,242423.87,False,False
+S055,CP,Component sector 11,7,8,171842.73,256881.11,False,False
+S056,CP,Component sector 12,5,7,454739.63,342536.68,False,False
+S057,CP,Component sector 13,6,8,169644.79,178700.93,False,False
+S058,CP,Component sector 14,10,7,100844.8,872310.66,False,False
+S059,CP,Component sector 15,7,10,378281.7,611105.57,False,False
+S060,CP,Component sector 16,8,8,825119.47,176465.85,False,False
+S061,CP,Component sector 17,5,8,147270.21,603458.45,False,False
+S062,CP,Component sector 18,13,10,1402413.52,449895.0,False,False
+S063,CP,Component sector 19,7,6,796877.84,172701.72,False,False
+S064,CP,Component sector 20,6,10,378561.2,612577.7,False,False
+S065,CE,Battery manufacturing,20,11,1909782.37,300631.53,True,False
+S066,CE,Cell sector 02,7,9,222377.74,1164030.79,False,False
+S067,CE,Cell sector 03,11,7,309590.01,634779.39,False,False
+S068,CE,Cell sector 04,8,10,648877.65,1072771.18,False,False
+S069,CE,Cell sector 05,7,15,113550.06,833727.77,False,False
+S070,CE,Cell sector 06,9,6,236922.45,385863.22,False,False
+S071,CE,Cell sector 07,5,10,268637.49,333491.12,False,False
+S072,CE,Cell sector 08,7,9,149063.9,728351.49,False,False
+S073,CE,Cell sector 09,5,7,203711.73,457050.87,False,False
+S074,CE,Cell sector 10,5,8,252257.09,302986.58,False,False
+S075,CE,Cell sector 11,8,9,504041.63,364730.45,False,False
+S076,CE,Cell sector 12,9,10,384677.85,680278.38,False,False
+S077,CE,Cell sector 13,8,9,184905.31,542545.96,False,False
+S078,CE,Cell sector 14,13,8,661575.35,861387.45,False,False
+S079,AP,Electric-vehicle assembly,5,5,113861.05,1065424.86,False,True
+S080,AP,Stationary-storage integration,4,10,73121.66,634181.36,False,False
+S081,AP,Export / other application,2,4,161881.53,96748.7,False,False
+S082,AP,Application sector 04,7,10,148506.22,457596.6,False,False
+S083,AP,Application sector 05,6,11,174122.3,398944.68,False,False
+S084,AP,Application sector 06,3,9,236680.87,249336.93,False,False
+S085,AP,Application sector 07,7,9,240396.54,885357.95,False,False
+S086,AP,Application sector 08,4,14,83365.21,911444.27,False,False
+S087,AP,Application sector 09,5,8,157167.34,208268.21,False,False
+S088,AP,Application sector 10,4,9,102886.86,416986.38,False,False
+S089,AP,Application sector 11,7,4,124029.94,169870.25,False,False
+S090,AP,Application sector 12,5,5,130368.25,305884.34,False,False
+S091,RC,Recycling sector 01,5,5,67532.65,58932.8,False,False
+S092,RC,Recycling sector 02,4,3,96198.25,90293.54,False,False
+S093,RC,Recycling sector 03,7,8,144821.17,247379.39,False,False
+S094,RC,Recycling sector 04,7,6,338545.64,337378.96,False,False
+S095,RC,Recycling sector 05,7,5,124716.04,42242.69,False,False
+S096,RC,Recycling sector 06,4,4,108405.47,72647.13,False,False
+S097,RC,Recycling sector 07,7,2,122816.64,13608.44,False,False
+S098,RC,Recycling sector 08,11,8,190083.53,243135.77,False,False
+S099,RC,Recycling sector 09,7,6,323301.36,110271.53,False,False
+S100,RC,Recycling sector 10,9,6,187183.01,164906.47,False,False
+S101,RC,Recycling sector 11,4,7,73242.24,86211.51,False,False
+S102,RC,Recycling sector 12,2,3,48553.41,55451.12,False,False
+S103,RC,Recycling sector 13,5,7,70747.26,140370.17,False,False
+S104,RC,Recycling sector 14,4,5,122001.16,75534.61,False,False
+S105,RC,Recycling sector 15,5,7,93813.09,179876.58,False,False
+S106,RC,Recycling sector 16,6,7,155637.65,203670.78,False,False

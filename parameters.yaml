@@ -1,0 +1,19 @@
+# Default model parameters.
+# These parameters are applied to the synthetic example data; the outputs do not reproduce
+# published figures.
+
+model:
+  tau: 0.50              # bankruptcy threshold
+  beta: 10.0             # sigmoid steepness
+  shock_intensity: 0.8   # EV-demand shock intensity
+  max_cascade_rounds: 15 # cascade round cap
+  recovery_steps: 45     # number of recovery steps
+  p_recover: 0.05        # per-step baseline recovery probability
+
+reproducibility:
+  # Deterministic seeding scheme: per-simulation seed = base_seed + simulation_id
+  base_seed: 42
+
+bed_scan:
+  grid: [0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60, 0.65, 0.70]
+  n_repeats: 30

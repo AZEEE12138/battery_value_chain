@@ -1,0 +1,22 @@
+Year,BED_optimistic_pct,BED_conservative_pct,Scenario_Note,Source
+2015,26.6,26.6,Historical (synthetic); single trajectory,Synthetic historical series
+2016,27.5,27.5,Historical (synthetic); single trajectory,Synthetic historical series
+2017,32.1,32.1,Historical (synthetic); single trajectory,Synthetic historical series
+2018,37.8,37.8,Historical (synthetic); single trajectory,Synthetic historical series
+2019,40.0,40.0,Historical (synthetic); single trajectory,Synthetic historical series
+2020,45.8,45.8,Historical (synthetic); single trajectory,Synthetic historical series
+2021,47.6,47.6,Historical (synthetic); single trajectory,Synthetic historical series
+2022,54.3,54.3,Historical (synthetic); single trajectory,Synthetic historical series
+2023,58.5,58.5,Historical (synthetic); single trajectory,Synthetic historical series
+2024,62.6,62.6,Historical (synthetic); single trajectory,Synthetic historical series
+2025,67.4,67.4,Historical (synthetic); single trajectory,Synthetic historical series
+2026,61.3,63.1,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2027,59.6,62.3,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2028,56.6,62.3,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2029,54.6,61.4,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2030,53.5,61.5,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2031,50.8,61.0,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2032,48.8,60.0,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2033,46.7,59.5,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2034,45.0,58.2,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
+2035,42.6,57.7,Projection (synthetic); optimistic vs conservative,Synthetic scenario model
